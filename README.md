@@ -1,2 +1,2 @@
 # GameSite-PHP
-Site with two games avalaible, made using PHP
+acess /public folder then type php -S localhost:4000
